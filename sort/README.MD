@@ -6,7 +6,6 @@
 计数排序：
 ```javascript
 let countingSort = arr =>{
-    arr = [2,1,5,3,8,4,9,5]
           //空的哈希表、最大值、返回结果
           let hashTable = {}, max = 0, result = []
 
